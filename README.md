@@ -29,31 +29,31 @@
 
 #### 附：
 1.	目录结构
--├-信道利用率（主目录，任意文件名）
--│  │  abstractchannelbusy.bat
--│  │  AC-10.20.145.55_channelbusy12点-23点.txt
--│  │  awk.exe
--│  │  channelbusyabstract.awk
--│  │  channelbusyabstract.infn.awk
--│  │  createscript.awk
--│  │  createscript.bat
--│  │  channelbusyabstract.bat
--│  │  debug
--│  │  logfn.txt
--│  │  信道利用率读取方法.docx
--│  │  工具使用方法.docx
--│  │  
--│  ├-5月25号衢州（样例）
--│  │      AC-10.20.145.55_channelbusy12点-23点（样例）.txt
--│  │      …………
--│  ├-AClist（放置需要采集信道利用率的AC信息，文件格式见说明）
--│  │      AC-10.20.145.55（样例）.CSV
--│  │      …………
--│  ├-outputs（放置输出文件，文件通过channelbusyabstract自动生成）
--│  │      5月25号（衢州-样例）_channelbusy.csv
--│  │      …………
--│  └-scripts（放置AC脚本，脚本通过createscript自动生成）
--│          script_AC-10.20.145.55（样例）.txt
+- ├-信道利用率（主目录，任意文件名）
+- │  │  abstractchannelbusy.bat
+- │  │  AC-10.20.145.55_channelbusy12点-23点.txt
+- │  │  awk.exe
+- │  │  channelbusyabstract.awk
+- │  │  channelbusyabstract.infn.awk
+- │  │  createscript.awk
+- │  │  createscript.bat
+- │  │  channelbusyabstract.bat
+- │  │  debug
+- │  │  logfn.txt
+- │  │  信道利用率读取方法.docx
+- │  │  工具使用方法.docx
+- │  │  
+- │  ├-5月25号衢州（样例）
+- │  │      AC-10.20.145.55_channelbusy12点-23点（样例）.txt
+- │  │      …………
+- │  ├-AClist（放置需要采集信道利用率的AC信息，文件格式见说明）
+- │  │      AC-10.20.145.55（样例）.CSV
+- │  │      …………
+- │  ├-outputs（放置输出文件，文件通过channelbusyabstract自动生成）
+- │  │      5月25号（衢州-样例）_channelbusy.csv
+- │  │      …………
+- │  └-scripts（放置AC脚本，脚本通过createscript自动生成）
+- │          script_AC-10.20.145.55（样例）.txt
 
 2.	信道利用率脚本说明
 
