@@ -1,5 +1,6 @@
 
 ## awk version of wifi network channel busy analysis for H3C hardware
+-- Chengan douboer@gmail.com
 
 ## 信道利用率解析工具使用方法
 
